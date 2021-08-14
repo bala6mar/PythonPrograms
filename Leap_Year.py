@@ -1,4 +1,4 @@
-#This is the beginning
+
 year = int(input("Enter any year here: "))
 
 """if year % 4 == 0:
